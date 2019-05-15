@@ -1,0 +1,39 @@
+t:Game Designers
+Daniele Arruda
+Leonardo Dantas
+
+t:Programmers
+Gabriel Cassimiro
+Lana Schimitez
+Leonardo Dantas
+Tiago Carnevalli
+Vinicius Lima
+
+t:Artists
+Erik Riccioppo
+Gustavo Dilarri
+
+t:Pixel Artists
+Athus Goncalves
+Rafael Lee
+
+t:UI Artist
+Matheus D'Luca
+
+t:Tech Artists
+Lana Schimitez
+Leonardo Dantas
+
+t:Writer
+Evaldo Araujo
+
+t:Localization
+Marina Demori
+
+t:Sound Designer
+Wladimir Barbosa
+
+t:Professors
+Kleber de Oliveira Andrade (Assistant Professor - FATEC at Americana)
+Osvaldo Succi (Assistant Professor - FATEC at Americana)
+Dudu Sokhela (Assistant Professor - Durban University)
